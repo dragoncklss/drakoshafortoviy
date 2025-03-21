@@ -1,9 +1,9 @@
 {
-    "DragonEnable": false,
-    "DragonLang": ["Russian"],
-    "DragonTime": ["Yekaterinburg"],
+    "DragonEnable": true,
+    "DragonLang": ["Portuguese"],
+    "DragonTime": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "DragonLink": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Portuguese", "Links": ["https://1wgxql.com/casino/list?open=register&p=jg3t"]}
     ]
  }
